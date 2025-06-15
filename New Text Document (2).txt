@@ -1,0 +1,19 @@
+# HarborRP.LT
+
+Oficialus HarborRP.LT GTA V / FiveM Roleplay serverio svetainės šaltinis.
+
+## Kaip naudoti
+
+1. Susikurk GitHub paskyrą, jei jos dar neturi.
+2. Sukurk naują repozitoriją pavadinimu `HarborRP.LT`.
+3. Įkelk `index.html` failą į repozitoriją.
+4. GitHub nustatymuose (Settings) įjunk „GitHub Pages“ ir pasirink `main` šaką.
+5. Po kelių minučių svetainė bus pasiekiama adresu `https://TAVO_VARTOTOJO_VARDAS.github.io/HarborRP.LT/`.
+
+## Aprašymas
+
+Tai paprastas lietuviškas Roleplay serverio puslapis, kuriame yra pagrindinė informacija apie serverį, taisykles, kaip prisijungti ir kontaktus.
+
+## Kontaktai
+
+Jei turi klausimų, rašyk el. paštu: info@harborrp.lt
